@@ -47,6 +47,7 @@
 		ED59160329BC307D000F25AE = {
 			isa = PBXGroup;
 			children = (
+				F7AE2DCA2ADD244900036B0D /* README.md */,
 				ED59160E29BC307D000F25AE /* ios101-project5-tumblr */,
 				ED59160D29BC307D000F25AE /* Products */,
 			);
@@ -72,7 +73,6 @@
 				ED59161829BC307E000F25AE /* Assets.xcassets */,
 				ED59161A29BC307E000F25AE /* LaunchScreen.storyboard */,
 				ED59161D29BC307E000F25AE /* Info.plist */,
-				F7AE2DCA2ADD244900036B0D /* README.md */,
 			);
 			path = "ios101-project5-tumblr";
 			sourceTree = "<group>";
