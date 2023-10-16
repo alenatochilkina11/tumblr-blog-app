@@ -15,6 +15,7 @@
 		ED59161C29BC307E000F25AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED59161A29BC307E000F25AE /* LaunchScreen.storyboard */; };
 		ED59162429BC4921000F25AE /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED59162329BC4921000F25AE /* Post.swift */; };
 		ED59162929BC50E7000F25AE /* Nuke in Frameworks */ = {isa = PBXBuildFile; productRef = ED59162829BC50E7000F25AE /* Nuke */; };
+		F7AE2DC92ADD19CA00036B0D /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7AE2DC82ADD19CA00036B0D /* PostCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,8 @@
 		ED59161B29BC307E000F25AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED59161D29BC307E000F25AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ED59162329BC4921000F25AE /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
+		F7AE2DC82ADD19CA00036B0D /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		F7AE2DCA2ADD244900036B0D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,10 +67,12 @@
 				ED59161129BC307D000F25AE /* SceneDelegate.swift */,
 				ED59161329BC307D000F25AE /* ViewController.swift */,
 				ED59162329BC4921000F25AE /* Post.swift */,
+				F7AE2DC82ADD19CA00036B0D /* PostCell.swift */,
 				ED59161529BC307D000F25AE /* Main.storyboard */,
 				ED59161829BC307E000F25AE /* Assets.xcassets */,
 				ED59161A29BC307E000F25AE /* LaunchScreen.storyboard */,
 				ED59161D29BC307E000F25AE /* Info.plist */,
+				F7AE2DCA2ADD244900036B0D /* README.md */,
 			);
 			path = "ios101-project5-tumblr";
 			sourceTree = "<group>";
@@ -153,6 +158,7 @@
 				ED59161029BC307D000F25AE /* AppDelegate.swift in Sources */,
 				ED59161229BC307D000F25AE /* SceneDelegate.swift in Sources */,
 				ED59162429BC4921000F25AE /* Post.swift in Sources */,
+				F7AE2DC92ADD19CA00036B0D /* PostCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
